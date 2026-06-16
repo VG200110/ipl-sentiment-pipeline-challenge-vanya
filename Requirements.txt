@@ -1,0 +1,12 @@
+Requirements:
+1) pandas
+2) numpy
+3) scikit-learn
+4) matplotlib
+5) joblib
+6) transformers
+7) sentence_transformers
+8) gensim
+9) torch
+
+
